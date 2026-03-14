@@ -1,4 +1,4 @@
-## Oii meu nome e Pedro Henrique, Explorando o mundo do código. 🚀 Estudante de tecnologia/iniciante !
+## Oii meu nome e Pedro Henrique, Explorando o mundo do código. 🚀 Estudante de tecnologia!
 
 "Entusiasta de tecnologia e design em constante aprendizado. Construindo meu caminho no mundo do desenvolvimento e transformando desafios em projetos."
 
