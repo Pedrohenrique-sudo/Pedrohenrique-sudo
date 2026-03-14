@@ -4,4 +4,4 @@ Seja bem-vindo ao meu perfil no GitHub! 🚀
 
 - 💻 Estou aprendendo e desenvolvendo projetos.
 - 🌱 Estou focando em melhorar minhas habilidades em programação e design.
-- 📫 Como me encontrar: [https://www.instagram.com/pedro_ferreira.da_silva?igsh=ZzFuYjAwbmRzeGt0]
+📫 Como me encontrar: [Instagram](https://www.instagram.com/pedro_ferreira.da_silva/)
