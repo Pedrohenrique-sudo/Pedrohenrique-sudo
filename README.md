@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Pedro Henrique
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor`**
 
 Me chamo Pedro Henrique , tenho 18 anos e sou natural de boa viagem ceará. no terceiro ano do ensino medio, com o curso técnico em ADS. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na profissionalizante. Sou apaixonada por tecnologia
 
@@ -151,7 +151,7 @@ Me chamo Pedro Henrique , tenho 18 anos e sou natural de boa viagem ceará. no t
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+<img src="https://i.pinimg.com/originals/e5/f2/e7/e5f2e7713193093f68925f1b3fd9bb1a.gif" width="200" align="right">
 <br/>
 <br/>
 
@@ -163,14 +163,14 @@ Me chamo Pedro Henrique , tenho 18 anos e sou natural de boa viagem ceará. no t
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Pedrohenrique-sudo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrohenrique-sudo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
