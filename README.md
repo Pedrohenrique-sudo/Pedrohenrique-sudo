@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Pedro Henrique , tenho 18 anos e sou natural de boa viagem ceará. no terceiro ano do ensino medio, com o curso técnico em ADS. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na profissionalizante. Sou apaixonada por tecnologia
+Me chamo Pedro Henrique , tenho 18 anos e sou natural de boa viagem ceará. no terceiro ano do ensino medio,  curso técnico em ADS. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na profissionalizante. Sou apaixonado por tecnologia
 
 <p align="left">
     <a href="https://github.com/Pedrohenrique-sudo?tab=followers">
