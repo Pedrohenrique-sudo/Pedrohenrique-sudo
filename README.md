@@ -143,7 +143,7 @@ Me chamo Pedro Henrique , tenho 18 anos e sou natural de boa viagem ceará. no t
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<img src="https://v1.pinimg.com/videos/mc/720p/fb/76/b3/fb76b3ae0bdac86bb805f436b5f00a4d.mp4" width="200" align="right">
+<img src="ezgif.com-video-to-gif-converter" width="200" align="right">
 <br/>
 <br/>
 
