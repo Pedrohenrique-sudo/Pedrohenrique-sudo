@@ -161,5 +161,6 @@ Me chamo Pedro Henrique , tenho 18 anos e sou natural de boa viagem ceará. no t
     </tr>
   </table>
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pedrohenrique-sudo&theme=radical"/>
-</div>
 ![Snake animation](https://raw.githubusercontent.com/Pedrohenrique-sudo/Pedrohenrique-sudo/output/snake.svg)
+</div>
+
