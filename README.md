@@ -149,19 +149,7 @@ Me chamo Pedro Henrique , tenho 18 anos e sou natural de boa viagem ceará. no t
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Pedrohenrique-sudo&show_icons=true&theme=tokyonight" 
-  />
-
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrohenrique-sudo&theme=tokyonight&layout=compact" 
-  />
-</p>
+<div align="left">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Pedrohenrique-sudo&show_icons=true&theme=tokyonight" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrohenrique-sudo&theme=tokyonight&layout=compact" />
+</div>
